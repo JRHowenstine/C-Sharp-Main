@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\myRepository\C#\ConAppAssignStep185\ConAppAssignStep185\bin\Debug\ConAppAssignStep185.exe.config
+C:\Users\Owner\Documents\myRepository\C#\ConAppAssignStep185\ConAppAssignStep185\bin\Debug\ConAppAssignStep185.exe
+C:\Users\Owner\Documents\myRepository\C#\ConAppAssignStep185\ConAppAssignStep185\bin\Debug\ConAppAssignStep185.pdb
+C:\Users\Owner\Documents\myRepository\C#\ConAppAssignStep185\ConAppAssignStep185\obj\Debug\ConAppAssignStep185.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\myRepository\C#\ConAppAssignStep185\ConAppAssignStep185\obj\Debug\ConAppAssignStep185.exe
+C:\Users\Owner\Documents\myRepository\C#\ConAppAssignStep185\ConAppAssignStep185\obj\Debug\ConAppAssignStep185.pdb
+C:\Users\Owner\Documents\myRepository\C#\ConAppAssignStep185\ConAppAssignStep185\obj\Debug\ConAppAssignStep185.csproj.AssemblyReference.cache

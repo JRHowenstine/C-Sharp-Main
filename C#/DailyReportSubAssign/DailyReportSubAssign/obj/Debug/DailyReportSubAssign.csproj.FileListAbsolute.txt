@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\myRepository\C#\DailyReportSubAssign\DailyReportSubAssign\obj\Debug\DailyReportSubAssign.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\myRepository\C#\DailyReportSubAssign\DailyReportSubAssign\bin\Debug\DailyReportSubAssign.exe.config
+C:\Users\Owner\Documents\myRepository\C#\DailyReportSubAssign\DailyReportSubAssign\bin\Debug\DailyReportSubAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\DailyReportSubAssign\DailyReportSubAssign\bin\Debug\DailyReportSubAssign.pdb
+C:\Users\Owner\Documents\myRepository\C#\DailyReportSubAssign\DailyReportSubAssign\obj\Debug\DailyReportSubAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\DailyReportSubAssign\DailyReportSubAssign\obj\Debug\DailyReportSubAssign.pdb
