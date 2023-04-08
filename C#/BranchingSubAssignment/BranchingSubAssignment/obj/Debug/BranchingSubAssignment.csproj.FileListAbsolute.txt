@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\myRepository\C#\BranchingSubAssignment\BranchingSubAssignment\bin\Debug\BranchingSubAssignment.exe.config
+C:\Users\Owner\Documents\myRepository\C#\BranchingSubAssignment\BranchingSubAssignment\bin\Debug\BranchingSubAssignment.exe
+C:\Users\Owner\Documents\myRepository\C#\BranchingSubAssignment\BranchingSubAssignment\bin\Debug\BranchingSubAssignment.pdb
+C:\Users\Owner\Documents\myRepository\C#\BranchingSubAssignment\BranchingSubAssignment\obj\Debug\BranchingSubAssignment.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\myRepository\C#\BranchingSubAssignment\BranchingSubAssignment\obj\Debug\BranchingSubAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\myRepository\C#\BranchingSubAssignment\BranchingSubAssignment\obj\Debug\BranchingSubAssignment.exe
+C:\Users\Owner\Documents\myRepository\C#\BranchingSubAssignment\BranchingSubAssignment\obj\Debug\BranchingSubAssignment.pdb
