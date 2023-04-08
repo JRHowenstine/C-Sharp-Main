@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\myRepository\C#\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\Owner\Documents\myRepository\C#\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\Owner\Documents\myRepository\C#\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\Owner\Documents\myRepository\C#\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\myRepository\C#\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\Owner\Documents\myRepository\C#\Loops\Loops\obj\Debug\Loops.pdb

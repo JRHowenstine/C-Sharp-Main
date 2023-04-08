@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\myRepository\C#\LoopSubAssign\LoopSubAssign\bin\Debug\LoopSubAssign.exe.config
+C:\Users\Owner\Documents\myRepository\C#\LoopSubAssign\LoopSubAssign\bin\Debug\LoopSubAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\LoopSubAssign\LoopSubAssign\bin\Debug\LoopSubAssign.pdb
+C:\Users\Owner\Documents\myRepository\C#\LoopSubAssign\LoopSubAssign\obj\Debug\LoopSubAssign.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\myRepository\C#\LoopSubAssign\LoopSubAssign\obj\Debug\LoopSubAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\LoopSubAssign\LoopSubAssign\obj\Debug\LoopSubAssign.pdb
