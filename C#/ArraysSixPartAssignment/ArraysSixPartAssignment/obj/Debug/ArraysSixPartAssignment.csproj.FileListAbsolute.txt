@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\myRepository\C#\ArraysSixPartAssignment\ArraysSixPartAssignment\bin\Debug\ArraysSixPartAssignment.exe.config
+C:\Users\Owner\Documents\myRepository\C#\ArraysSixPartAssignment\ArraysSixPartAssignment\bin\Debug\ArraysSixPartAssignment.exe
+C:\Users\Owner\Documents\myRepository\C#\ArraysSixPartAssignment\ArraysSixPartAssignment\bin\Debug\ArraysSixPartAssignment.pdb
+C:\Users\Owner\Documents\myRepository\C#\ArraysSixPartAssignment\ArraysSixPartAssignment\obj\Debug\ArraysSixPartAssignment.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\myRepository\C#\ArraysSixPartAssignment\ArraysSixPartAssignment\obj\Debug\ArraysSixPartAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\myRepository\C#\ArraysSixPartAssignment\ArraysSixPartAssignment\obj\Debug\ArraysSixPartAssignment.exe
+C:\Users\Owner\Documents\myRepository\C#\ArraysSixPartAssignment\ArraysSixPartAssignment\obj\Debug\ArraysSixPartAssignment.pdb
