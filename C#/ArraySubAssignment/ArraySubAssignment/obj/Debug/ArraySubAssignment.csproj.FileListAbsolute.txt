@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\myRepository\C#\ArraySubAssignment\ArraySubAssignment\bin\Debug\ArraySubAssignment.exe.config
+C:\Users\Owner\Documents\myRepository\C#\ArraySubAssignment\ArraySubAssignment\bin\Debug\ArraySubAssignment.exe
+C:\Users\Owner\Documents\myRepository\C#\ArraySubAssignment\ArraySubAssignment\bin\Debug\ArraySubAssignment.pdb
+C:\Users\Owner\Documents\myRepository\C#\ArraySubAssignment\ArraySubAssignment\obj\Debug\ArraySubAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\myRepository\C#\ArraySubAssignment\ArraySubAssignment\obj\Debug\ArraySubAssignment.exe
+C:\Users\Owner\Documents\myRepository\C#\ArraySubAssignment\ArraySubAssignment\obj\Debug\ArraySubAssignment.pdb

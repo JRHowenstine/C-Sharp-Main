@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\myRepository\C#\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe.config
+C:\Users\Owner\Documents\myRepository\C#\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe
+C:\Users\Owner\Documents\myRepository\C#\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.pdb
+C:\Users\Owner\Documents\myRepository\C#\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\myRepository\C#\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.exe
+C:\Users\Owner\Documents\myRepository\C#\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.pdb
+C:\Users\Owner\Documents\myRepository\C#\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.AssemblyReference.cache
