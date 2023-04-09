@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\myRepository\C#\StringsAndIntegersSubAssign\StringsAndIntegersSubAssign\bin\Debug\StringsAndIntegersSubAssign.exe.config
+C:\Users\Owner\Documents\myRepository\C#\StringsAndIntegersSubAssign\StringsAndIntegersSubAssign\bin\Debug\StringsAndIntegersSubAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\StringsAndIntegersSubAssign\StringsAndIntegersSubAssign\bin\Debug\StringsAndIntegersSubAssign.pdb
+C:\Users\Owner\Documents\myRepository\C#\StringsAndIntegersSubAssign\StringsAndIntegersSubAssign\obj\Debug\StringsAndIntegersSubAssign.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\myRepository\C#\StringsAndIntegersSubAssign\StringsAndIntegersSubAssign\obj\Debug\StringsAndIntegersSubAssign.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\myRepository\C#\StringsAndIntegersSubAssign\StringsAndIntegersSubAssign\obj\Debug\StringsAndIntegersSubAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\StringsAndIntegersSubAssign\StringsAndIntegersSubAssign\obj\Debug\StringsAndIntegersSubAssign.pdb
