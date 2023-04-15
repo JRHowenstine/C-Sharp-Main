@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\myRepository\C#\MainMethodSubAssign\MainMethodSubAssign\bin\Debug\MainMethodSubAssign.exe.config
+C:\Users\Owner\Documents\myRepository\C#\MainMethodSubAssign\MainMethodSubAssign\bin\Debug\MainMethodSubAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\MainMethodSubAssign\MainMethodSubAssign\bin\Debug\MainMethodSubAssign.pdb
+C:\Users\Owner\Documents\myRepository\C#\MainMethodSubAssign\MainMethodSubAssign\obj\Debug\MainMethodSubAssign.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\myRepository\C#\MainMethodSubAssign\MainMethodSubAssign\obj\Debug\MainMethodSubAssign.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\myRepository\C#\MainMethodSubAssign\MainMethodSubAssign\obj\Debug\MainMethodSubAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\MainMethodSubAssign\MainMethodSubAssign\obj\Debug\MainMethodSubAssign.pdb
