@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\myRepository\C#\MethodCallingSubAssign\MethodCallingSubAssign\bin\Debug\MethodCallingSubAssign.exe.config
+C:\Users\Owner\Documents\myRepository\C#\MethodCallingSubAssign\MethodCallingSubAssign\bin\Debug\MethodCallingSubAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\MethodCallingSubAssign\MethodCallingSubAssign\bin\Debug\MethodCallingSubAssign.pdb
+C:\Users\Owner\Documents\myRepository\C#\MethodCallingSubAssign\MethodCallingSubAssign\obj\Debug\MethodCallingSubAssign.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\myRepository\C#\MethodCallingSubAssign\MethodCallingSubAssign\obj\Debug\MethodCallingSubAssign.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\myRepository\C#\MethodCallingSubAssign\MethodCallingSubAssign\obj\Debug\MethodCallingSubAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\MethodCallingSubAssign\MethodCallingSubAssign\obj\Debug\MethodCallingSubAssign.pdb
