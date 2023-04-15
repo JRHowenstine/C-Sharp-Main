@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\myRepository\C#\MethodSubAssign2\MethodSubAssign2\bin\Debug\MethodSubAssign2.exe.config
+C:\Users\Owner\Documents\myRepository\C#\MethodSubAssign2\MethodSubAssign2\bin\Debug\MethodSubAssign2.exe
+C:\Users\Owner\Documents\myRepository\C#\MethodSubAssign2\MethodSubAssign2\bin\Debug\MethodSubAssign2.pdb
+C:\Users\Owner\Documents\myRepository\C#\MethodSubAssign2\MethodSubAssign2\obj\Debug\MethodSubAssign2.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\myRepository\C#\MethodSubAssign2\MethodSubAssign2\obj\Debug\MethodSubAssign2.exe
+C:\Users\Owner\Documents\myRepository\C#\MethodSubAssign2\MethodSubAssign2\obj\Debug\MethodSubAssign2.pdb
