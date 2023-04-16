@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\myRepository\C#\MethodClassSubAssign\MethodClassSubAssign\bin\Debug\MethodClassSubAssign.exe.config
+C:\Users\Owner\Documents\myRepository\C#\MethodClassSubAssign\MethodClassSubAssign\bin\Debug\MethodClassSubAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\MethodClassSubAssign\MethodClassSubAssign\bin\Debug\MethodClassSubAssign.pdb
+C:\Users\Owner\Documents\myRepository\C#\MethodClassSubAssign\MethodClassSubAssign\obj\Debug\MethodClassSubAssign.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\myRepository\C#\MethodClassSubAssign\MethodClassSubAssign\obj\Debug\MethodClassSubAssign.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\myRepository\C#\MethodClassSubAssign\MethodClassSubAssign\obj\Debug\MethodClassSubAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\MethodClassSubAssign\MethodClassSubAssign\obj\Debug\MethodClassSubAssign.pdb
