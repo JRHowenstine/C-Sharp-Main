@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\myRepository\C#\MethodsAndObjectsSubAssign\MethodsAndObjectsSubAssign\bin\Debug\MethodsAndObjectsSubAssign.exe.config
+C:\Users\Owner\Documents\myRepository\C#\MethodsAndObjectsSubAssign\MethodsAndObjectsSubAssign\bin\Debug\MethodsAndObjectsSubAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\MethodsAndObjectsSubAssign\MethodsAndObjectsSubAssign\bin\Debug\MethodsAndObjectsSubAssign.pdb
+C:\Users\Owner\Documents\myRepository\C#\MethodsAndObjectsSubAssign\MethodsAndObjectsSubAssign\obj\Debug\MethodsAndObjectsSubAssign.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\myRepository\C#\MethodsAndObjectsSubAssign\MethodsAndObjectsSubAssign\obj\Debug\MethodsAndObjectsSubAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\MethodsAndObjectsSubAssign\MethodsAndObjectsSubAssign\obj\Debug\MethodsAndObjectsSubAssign.pdb
