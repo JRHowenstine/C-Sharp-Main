@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\myRepository\C#\ClassSubAssign\ClassSubAssign\bin\Debug\ClassSubAssign.exe.config
+C:\Users\Owner\Documents\myRepository\C#\ClassSubAssign\ClassSubAssign\bin\Debug\ClassSubAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\ClassSubAssign\ClassSubAssign\bin\Debug\ClassSubAssign.pdb
+C:\Users\Owner\Documents\myRepository\C#\ClassSubAssign\ClassSubAssign\obj\Debug\ClassSubAssign.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\myRepository\C#\ClassSubAssign\ClassSubAssign\obj\Debug\ClassSubAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\ClassSubAssign\ClassSubAssign\obj\Debug\ClassSubAssign.pdb
