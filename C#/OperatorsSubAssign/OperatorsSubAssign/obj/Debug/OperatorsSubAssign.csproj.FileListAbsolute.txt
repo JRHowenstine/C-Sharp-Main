@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\myRepository\C#\OperatorsSubAssign\OperatorsSubAssign\bin\Debug\OperatorsSubAssign.exe.config
+C:\Users\Owner\Documents\myRepository\C#\OperatorsSubAssign\OperatorsSubAssign\bin\Debug\OperatorsSubAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\OperatorsSubAssign\OperatorsSubAssign\bin\Debug\OperatorsSubAssign.pdb
+C:\Users\Owner\Documents\myRepository\C#\OperatorsSubAssign\OperatorsSubAssign\obj\Debug\OperatorsSubAssign.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\myRepository\C#\OperatorsSubAssign\OperatorsSubAssign\obj\Debug\OperatorsSubAssign.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\myRepository\C#\OperatorsSubAssign\OperatorsSubAssign\obj\Debug\OperatorsSubAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\OperatorsSubAssign\OperatorsSubAssign\obj\Debug\OperatorsSubAssign.pdb
