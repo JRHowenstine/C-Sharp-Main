@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\myRepository\C#\AbstractClassSubAssign\AbstractClassSubAssign\bin\Debug\AbstractClassSubAssign.exe.config
+C:\Users\Owner\Documents\myRepository\C#\AbstractClassSubAssign\AbstractClassSubAssign\bin\Debug\AbstractClassSubAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\AbstractClassSubAssign\AbstractClassSubAssign\bin\Debug\AbstractClassSubAssign.pdb
+C:\Users\Owner\Documents\myRepository\C#\AbstractClassSubAssign\AbstractClassSubAssign\obj\Debug\AbstractClassSubAssign.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\myRepository\C#\AbstractClassSubAssign\AbstractClassSubAssign\obj\Debug\AbstractClassSubAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\AbstractClassSubAssign\AbstractClassSubAssign\obj\Debug\AbstractClassSubAssign.pdb
