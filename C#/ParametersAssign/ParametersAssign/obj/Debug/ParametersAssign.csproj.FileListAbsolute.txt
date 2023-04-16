@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\myRepository\C#\ParametersAssign\ParametersAssign\bin\Debug\ParametersAssign.exe.config
+C:\Users\Owner\Documents\myRepository\C#\ParametersAssign\ParametersAssign\bin\Debug\ParametersAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\ParametersAssign\ParametersAssign\bin\Debug\ParametersAssign.pdb
+C:\Users\Owner\Documents\myRepository\C#\ParametersAssign\ParametersAssign\obj\Debug\ParametersAssign.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\myRepository\C#\ParametersAssign\ParametersAssign\obj\Debug\ParametersAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\ParametersAssign\ParametersAssign\obj\Debug\ParametersAssign.pdb
