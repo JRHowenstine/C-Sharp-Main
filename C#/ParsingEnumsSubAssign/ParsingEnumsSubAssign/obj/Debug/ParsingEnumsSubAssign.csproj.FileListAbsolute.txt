@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\myRepository\C#\ParsingEnumsSubAssign\ParsingEnumsSubAssign\obj\Debug\ParsingEnumsSubAssign.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\myRepository\C#\ParsingEnumsSubAssign\ParsingEnumsSubAssign\bin\Debug\ParsingEnumsSubAssign.exe.config
+C:\Users\Owner\Documents\myRepository\C#\ParsingEnumsSubAssign\ParsingEnumsSubAssign\bin\Debug\ParsingEnumsSubAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\ParsingEnumsSubAssign\ParsingEnumsSubAssign\bin\Debug\ParsingEnumsSubAssign.pdb
+C:\Users\Owner\Documents\myRepository\C#\ParsingEnumsSubAssign\ParsingEnumsSubAssign\obj\Debug\ParsingEnumsSubAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\ParsingEnumsSubAssign\ParsingEnumsSubAssign\obj\Debug\ParsingEnumsSubAssign.pdb
