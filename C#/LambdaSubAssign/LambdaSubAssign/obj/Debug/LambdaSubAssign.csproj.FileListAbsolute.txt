@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\myRepository\C#\LambdaSubAssign\LambdaSubAssign\bin\Debug\LambdaSubAssign.exe.config
+C:\Users\Owner\Documents\myRepository\C#\LambdaSubAssign\LambdaSubAssign\bin\Debug\LambdaSubAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\LambdaSubAssign\LambdaSubAssign\bin\Debug\LambdaSubAssign.pdb
+C:\Users\Owner\Documents\myRepository\C#\LambdaSubAssign\LambdaSubAssign\obj\Debug\LambdaSubAssign.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\myRepository\C#\LambdaSubAssign\LambdaSubAssign\obj\Debug\LambdaSubAssign.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\myRepository\C#\LambdaSubAssign\LambdaSubAssign\obj\Debug\LambdaSubAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\LambdaSubAssign\LambdaSubAssign\obj\Debug\LambdaSubAssign.pdb
