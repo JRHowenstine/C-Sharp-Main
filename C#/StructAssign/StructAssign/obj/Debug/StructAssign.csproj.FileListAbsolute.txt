@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\myRepository\C#\StructAssign\StructAssign\bin\Debug\StructAssign.exe.config
+C:\Users\Owner\Documents\myRepository\C#\StructAssign\StructAssign\bin\Debug\StructAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\StructAssign\StructAssign\bin\Debug\StructAssign.pdb
+C:\Users\Owner\Documents\myRepository\C#\StructAssign\StructAssign\obj\Debug\StructAssign.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\myRepository\C#\StructAssign\StructAssign\obj\Debug\StructAssign.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\myRepository\C#\StructAssign\StructAssign\obj\Debug\StructAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\StructAssign\StructAssign\obj\Debug\StructAssign.pdb
