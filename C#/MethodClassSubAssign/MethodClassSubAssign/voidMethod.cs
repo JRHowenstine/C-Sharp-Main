@@ -8,11 +8,10 @@ namespace MethodClassSubAssign
 {
     class voidMethod
     {
-        public static void voidMeth(int num1, int num2 )
+        public void voidMeth(int num1, int num2 )  //  Create a void method that takes two integers in as parameters
         {
-            int mathOp = num1 + 10;
-            Console.WriteLine("{0} is your first number plus 10, {1} is your second number.", mathOp, num2);
-            Console.ReadLine();
+            int mathOp = num1 + 10;  //  Do some math on one integer
+            Console.WriteLine(num2);  //  display the second integer to the screen
         }
     }
 }
