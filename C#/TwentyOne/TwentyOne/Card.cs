@@ -10,15 +10,21 @@ namespace TwentyOne
     {
         public Suit Suit { get; set; }
         public Face Face { get; set; }
+
+        public override string ToString()  // custom ToString method for the card class
+        {
+            return string.Format("{0} of {1}", Face, Suit);
+        }
+
     }
-    public enum Suit
+    public enum Suit  //  Create enum of suits since it can't change
     {
         Clubs,
         Diamonds,
         Hearts,
         Spades
     }
-    public enum Face
+    public enum Face  //  Create enum of faces since they can't change
     {
         Two,
         Three,
