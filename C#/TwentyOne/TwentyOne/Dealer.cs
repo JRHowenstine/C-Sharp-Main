@@ -21,6 +21,7 @@ namespace TwentyOne
             Console.WriteLine(card);  //  Print to console what card
             using (StreamWriter file = new StreamWriter(@"C:\Users\Owner\Documents\myRepository\Logs\log.txt", true))  //  log each card to text file as it is dealt
             {
+                file.WriteLine(DateTime.Now);
                 file.WriteLine(card);
             }
             Deck.Cards.RemoveAt(0);  //  Remove the card from the deck

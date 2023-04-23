@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\myRepository\C#\DateTimeSubAssign\DateTimeSubAssign\bin\Debug\DateTimeSubAssign.exe.config
+C:\Users\Owner\Documents\myRepository\C#\DateTimeSubAssign\DateTimeSubAssign\bin\Debug\DateTimeSubAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\DateTimeSubAssign\DateTimeSubAssign\bin\Debug\DateTimeSubAssign.pdb
+C:\Users\Owner\Documents\myRepository\C#\DateTimeSubAssign\DateTimeSubAssign\obj\Debug\DateTimeSubAssign.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\myRepository\C#\DateTimeSubAssign\DateTimeSubAssign\obj\Debug\DateTimeSubAssign.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\myRepository\C#\DateTimeSubAssign\DateTimeSubAssign\obj\Debug\DateTimeSubAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\DateTimeSubAssign\DateTimeSubAssign\obj\Debug\DateTimeSubAssign.pdb
