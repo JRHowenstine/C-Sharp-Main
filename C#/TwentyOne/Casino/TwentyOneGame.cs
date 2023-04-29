@@ -22,11 +22,22 @@ namespace Casino.TwentyOne
             Dealer.Stay = false;  //  Set to false so they will play the hand til they have to stop
             Dealer.Deck = new Deck();  //  Create a new deck for each game so that no cards are missing
             Dealer.Deck.Shuffle();  //  Shuffle the deck before it is dealt
-            Console.WriteLine("Place your bet!");  //  Ask what player is going to bet
 
             foreach (Player player in Players)  //  Loop through each player
             {
-                int bet = Convert.ToInt32(Console.ReadLine());  // Store player bet as integer
+                //  Exception handling prevention
+                bool validAnswer = false;  //  Create a variable of bool data type and set it to false
+                int bet = 0;  //  the players bet will be stored as an integer
+                while (!validAnswer)
+                {
+                    Console.WriteLine("Place your bet!");  //  Ask what player is going to bet
+                    validAnswer = int.TryParse(Console.ReadLine(), out bet);  //  try parse casts the input string as its 32 bit integer equivalent and if successful passes to bet
+                    if (!validAnswer) Console.WriteLine("Please enter digits only, no decimals.");  //  if input was invalid print this so user knows what to do
+                }
+                if (bet < 0)
+                {
+                    throw new FraudException();  //  If bet is less than zero throw an exception
+                }
                 bool successfullyBet = player.Bet(bet);
                 if (!successfullyBet)  // If successfully bet returns false
                 {

@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\myRepository\C#\TryCatchAssign\TryCatchAssign\bin\Debug\TryCatchAssign.exe.config
+C:\Users\Owner\Documents\myRepository\C#\TryCatchAssign\TryCatchAssign\bin\Debug\TryCatchAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\TryCatchAssign\TryCatchAssign\bin\Debug\TryCatchAssign.pdb
+C:\Users\Owner\Documents\myRepository\C#\TryCatchAssign\TryCatchAssign\obj\Debug\TryCatchAssign.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\myRepository\C#\TryCatchAssign\TryCatchAssign\obj\Debug\TryCatchAssign.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\myRepository\C#\TryCatchAssign\TryCatchAssign\obj\Debug\TryCatchAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\TryCatchAssign\TryCatchAssign\obj\Debug\TryCatchAssign.pdb
