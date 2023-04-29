@@ -4,10 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace Casino
 {
     public class Player
     {
+        public Player(string name) : this(name, 100)  //  this constructor chain says assign name to name but if they don't provide a balance make 100 defualt
+        {
+        }
         public Player(string name, int beginningBalance)  //  Constructor for player objects
         {
             Hand = new List<Card>();  //  Instantiate a hand object for the player
@@ -20,6 +23,7 @@ namespace TwentyOne
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
         public bool Stay { get; set; }
+        public Guid Id { get; set; }
 
         public bool Bet(int amount)  // set a bet property as a bool
         {

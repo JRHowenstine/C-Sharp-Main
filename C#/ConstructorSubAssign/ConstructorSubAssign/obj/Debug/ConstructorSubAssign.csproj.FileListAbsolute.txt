@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\myRepository\C#\ConstructorSubAssign\ConstructorSubAssign\bin\Debug\ConstructorSubAssign.exe.config
+C:\Users\Owner\Documents\myRepository\C#\ConstructorSubAssign\ConstructorSubAssign\bin\Debug\ConstructorSubAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\ConstructorSubAssign\ConstructorSubAssign\bin\Debug\ConstructorSubAssign.pdb
+C:\Users\Owner\Documents\myRepository\C#\ConstructorSubAssign\ConstructorSubAssign\obj\Debug\ConstructorSubAssign.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\myRepository\C#\ConstructorSubAssign\ConstructorSubAssign\obj\Debug\ConstructorSubAssign.exe
+C:\Users\Owner\Documents\myRepository\C#\ConstructorSubAssign\ConstructorSubAssign\obj\Debug\ConstructorSubAssign.pdb

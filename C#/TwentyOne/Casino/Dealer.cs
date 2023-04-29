@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace TwentyOne
+namespace Casino
 {
     public class Dealer
     {
@@ -21,8 +21,8 @@ namespace TwentyOne
             Console.WriteLine(card);  //  Print to console what card
             using (StreamWriter file = new StreamWriter(@"C:\Users\Owner\Documents\myRepository\Logs\log.txt", true))  //  log each card to text file as it is dealt
             {
-                file.WriteLine(DateTime.Now);
-                file.WriteLine(card);
+                file.WriteLine(DateTime.Now);  //  log exact time dealt
+                file.WriteLine(card);  //  Log suit and face of card
             }
             Deck.Cards.RemoveAt(0);  //  Remove the card from the deck
         }

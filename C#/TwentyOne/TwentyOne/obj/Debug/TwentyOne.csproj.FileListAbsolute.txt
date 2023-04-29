@@ -5,3 +5,6 @@ C:\Users\Owner\Documents\myRepository\C#\TwentyOne\TwentyOne\bin\Debug\TwentyOne
 C:\Users\Owner\Documents\myRepository\C#\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
 C:\Users\Owner\Documents\myRepository\C#\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
 C:\Users\Owner\Documents\myRepository\C#\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\Owner\Documents\myRepository\C#\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+C:\Users\Owner\Documents\myRepository\C#\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
+C:\Users\Owner\Documents\myRepository\C#\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
