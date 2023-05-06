@@ -16,6 +16,10 @@ namespace ConstructorSubAssign
 
             Console.WriteLine(welcome + me + ".");  // Concatenate the var and the const together
 
+            Class1 newPerson = new Class1("Abi Baldwin");  //  Create a new instance of Class1 using the chained constructor
+
+            Console.WriteLine(newPerson.Name + " has " + newPerson.Purse + " poker chips.");  //  Show that instance was created properly with said properties
+
             Console.ReadLine();  //  Keep console open til user closes
         }
     }
