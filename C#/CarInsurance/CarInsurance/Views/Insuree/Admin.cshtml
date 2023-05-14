@@ -1,0 +1,42 @@
+﻿     <!--  Get access to the Insuree Model  -->
+@model IEnumerable<CarInsurance.Models.Insuree> 
+@{
+     ViewBag.Title = "Admin";
+}
+
+<h2>Admin</h2>
+<table class="table">   <!-- Create a table to display Insuree Info -->
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstName)  <!-- Display the name of the property from model as heading of column -->
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LastName)  <!-- Display the name of the property from model as heading of column -->
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EmailAddress)  <!-- Display the name of the property from model as heading of column -->
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Quote)   <!-- Display the name of the property from model as heading of column -->
+        </th>
+        </tr>
+
+        @foreach (var item in Model)  // Go through each entry and display specified values 
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FirstName)  <!-- Display the value of th model item -->
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LastName)  <!-- Display the value of th model item -->
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EmailAddress)  <!-- Display the value of th model item -->
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Quote)   <!-- Display the value of th model item -->
+                </td>
+            </tr>
+        }
+
+</table>
